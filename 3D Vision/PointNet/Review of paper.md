@@ -6,7 +6,7 @@
  
 ## Problems of Point Cloud data
 (1) Unordered : n! permutation inputs should make same results  
-(2) Interaction among points : local features should be extracted within adjacent points
+(2) Interaction among points : local features should be extracted within adjacent points  
 (3) Invariance under transformation : The rigid transformation(rotation, translation, reflection) of input data shouldn't affect the result
 
 ## Key Structures
