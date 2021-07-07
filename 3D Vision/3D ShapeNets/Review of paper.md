@@ -7,7 +7,7 @@
  
 ## Problems of Related Work
 (1) Traditional methods dealing 3d dataset are limited in several problems : a specific class of shapes with small variations with surface correspondence,
-can only tackle small holes or deficiencies, quality of abailable templates and often do not provide different semantic interpretations of reconstrutions
+can only tackle small holes or deficiencies, quality of abailable templates and often do not provide different semantic interpretations of reconstrutions  
 (2) There is some models using depth maps, but not model in full 3D
 
 ## Key Structures
@@ -17,8 +17,6 @@ can only tackle small holes or deficiencies, quality of abailable templates and 
 
 ## Network Architetcture and Visualization of model learning while training 
 <p align ="center"><img src="https://user-images.githubusercontent.com/61967107/124711269-d5057780-df38-11eb-84b7-9b3641b63c97.png"></p>
-
-### Model
 
 ## Limitations (problems in active object recognition)
  Unlike static object recognition, the seonsor in active object recognition should move to next view point to gather more information
