@@ -16,3 +16,8 @@
     
   - PointNet : Deep Learning on Point Sets for 3D Classification and Segmentation  
     [Link of CVPR (2017) Open Access](https://openaccess.thecvf.com/content_cvpr_2017/html/Qi_PointNet_Deep_Learning_CVPR_2017_paper.html)
+
+
+  - Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild (Review editting & code in process)
+    [Link of CVPR (2020) Open Access](https://openaccess.thecvf.com/content_CVPR_2020/html/Wu_Unsupervised_Learning_of_Probably_Symmetric_Deformable_3D_Objects_From_Images_CVPR_2020_paper.html)  
+    [Github code](https://github.com/elliottwu/unsup3d)
