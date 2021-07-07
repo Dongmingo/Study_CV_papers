@@ -20,3 +20,7 @@ can only tackle small holes or deficiencies, quality of abailable templates and 
 
 ## Limitations (problems in active object recognition)
  Unlike static object recognition, the seonsor in active object recognition should move to next view point to gather more information
+ 
+ 추가할 부분 : Learning Algorithm : Contrastive Divergence, Fast Persistent Contrastive Divergence  
+wake sleep algorithm  
+entropy based next view point selection
