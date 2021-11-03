@@ -3,7 +3,7 @@
 ## Categories
 
 ### Image Recognition
-  - An Image is Worth 16x16 Words : Transformers for Image Recognition at Scale   
+  - An Image is Worth 16x16 Words : Transformers for Image Recognition at Scale (ViT : Vision Transformer)   
     [Link of Paper arXiv](https://arxiv.org/abs/2010.11929)
 
 ### Object Detection
