@@ -2,6 +2,10 @@
 
 ## Categories
 
+### Image Recognition
+  - An Image is Worth 16x16 Words : Transformers for Image Recognition at Scale
+    [Link of Paper arXiv](https://arxiv.org/abs/2010.11929)
+
 ### Object Detection
   - You Only Look Once(YOLO): Unified, Real-Time Object Detection  
     [Link of CVPR (2016) Open Access](https://openaccess.thecvf.com/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)
